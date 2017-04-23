@@ -1,2 +1,2 @@
 # Design-Patterns-in-Scala
-Design Patterns implementations with comments in Scala
+Design Patterns implemented in Scala with a few explanations
